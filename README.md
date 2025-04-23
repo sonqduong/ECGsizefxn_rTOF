@@ -4,10 +4,10 @@ Welcome to the repository for the manuscript **"AI-Enabled ECG Assessment of Ven
 
 ## Overview
 
-This study introduces a novel AI-enabled model designed to assess ventricular size and volume using ECG data in patients with repaired tetralogy of Fallot
+This study introduces a novel AI-enabled model designed to assess ventricular size and volume using ECG data in patients with repaired tetralogy of Fallot.
 The implementation of the model and the inference scripts are included in the **release section** of this repository.
 
-## How to Access the Model and Inference Scripts
+## How to Access the Model for Inference
 
 The model is packaged into a Docker container for inference as a release. Follow these steps to download the release and review the release notes:
 
